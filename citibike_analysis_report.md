@@ -1,4 +1,4 @@
-##Citi Bike Analysis Report
+## Citi Bike Analysis Report
 
 Citi Bike is a puiblic bicycle sharing system that provides residents and visitors of New York, Jersey, and Hoboken an affordable means of transportation throughout the city. The Citi Bike Data Analysis dashboard story serves to explore over 15 million recent New York Citi Bike data ride records from the past six months, spanning from October 2023 to March 2024. The dashboards will delve into frequency of rides, member and casual use of the Citi Bike system, ride statistics of rides between the most popular stations in New York, and city maps of the top 100 ride stations to start and end Citi Bike rides.
 
